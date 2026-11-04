@@ -1,0 +1,5 @@
+python-telegram-bot==21.0
+cloudinary==1.40.0
+requests==2.31.0
+pillow==10.2.0
+groq==0.4.1
